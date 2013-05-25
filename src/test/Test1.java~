@@ -18,10 +18,7 @@ public class Test1 {
 		System.out.println("Chandima Dileepa Rajaguru");
 	}
 
-<<<<<<< HEAD
 	public int multiply(int a,int b){
 		return a*b;
 	}
-=======
->>>>>>> 619f3b354e70c649e33fa35591f802505c7972e8
 }
