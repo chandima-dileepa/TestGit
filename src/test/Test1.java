@@ -8,6 +8,7 @@ public class Test1 {
 	
 	//Adding two numbers
 	public int add(int a,int b){
+	    System.out.println("Adding two numbers");
 		return a+b;
 	}
 	
