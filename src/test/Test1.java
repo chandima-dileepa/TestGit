@@ -6,6 +6,7 @@ public class Test1 {
 	int a;
 	int b;
 	
+	//Adding two numbers
 	public int add(int a,int b){
 		return a+b;
 	}
