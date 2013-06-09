@@ -13,7 +13,6 @@ public class Test1 {
 	}
 	
 	public int substract(int a,int b){
-		System.out.println("Substracting two numbers");
 		return a-b;
 	}
 	
